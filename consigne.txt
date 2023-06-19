@@ -1,7 +1,8 @@
 -[X] récupère une liste de joueur
 - [X] route "afficher all joueur"
 - [X] route "paramètre équipe => joueur de cette équipe"
--route "joueur au hasard"
+- [X] route "joueur au hasard"
+-[X]  isoler les controllers (style MVC)
 
 - [X] jeu de donnée en JSON
 -déploy Render.com
